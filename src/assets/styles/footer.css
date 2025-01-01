@@ -1,0 +1,16 @@
+/* src/assets/styles/footer.css */
+.footer {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
